@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DataParallel on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/dataparallel/</link>
+    <description>Recent content in DataParallel on Tai&#39;s Blog</description>
+    <image>
+      <url>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Nov 2022 21:37:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/dataparallel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diving in distributed training in PyTorch</title>
+      <link>https://yunpengtai.top/posts/diving-in-distributed-training/</link>
+      <pubDate>Sun, 20 Nov 2022 21:37:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/diving-in-distributed-training/</guid>
+      <description>鉴于网上此类教程有不少模糊不清，对原理不得其法，代码也难跑通，故而花了几天细究了一下相关原理和实现，欢迎批评指正！ 关于此部分的代码，可以去这</description>
+    </item>
+    
+  </channel>
+</rss>

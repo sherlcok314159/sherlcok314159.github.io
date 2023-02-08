@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>1st post on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/1st-post/</link>
+    <description>Recent content in 1st post on Tai&#39;s Blog</description>
+    <image>
+      <url>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jun 2022 11:23:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/1st-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新的主题</title>
+      <link>https://yunpengtai.top/posts/hello-world/</link>
+      <pubDate>Sun, 19 Jun 2022 11:23:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/hello-world/</guid>
+      <description>这是基于 Hugo 系列主题第一篇文章，因为之前是在 Jekyll 上进行渲染，故而 Hello World也有更新 为啥变动 那么为啥从 Jekyll 变到 Hugo 呢？原因其实有几点： 之前用的主题看</description>
+    </item>
+    
+  </channel>
+</rss>

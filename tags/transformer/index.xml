@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>transformer on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/transformer/</link>
+    <description>Recent content in transformer on Tai&#39;s Blog</description>
+    <image>
+      <url>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jun 2022 21:06:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieval-Enhanced Transformer</title>
+      <link>https://yunpengtai.top/posts/retrieval-enhanced-transformer/</link>
+      <pubDate>Sun, 19 Jun 2022 21:06:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/retrieval-enhanced-transformer/</guid>
+      <description>Problems To Solve To Scale Down the model size while maintaining the performances. To incorporate External Memory Retrieval in the Large Language Model Modeling. How? Data Construction Training &amp;amp; Evaluation set:
+\(\text{MassiveText}\) for both training &amp;amp; retrieval data (contains 5 trillion tokens) SentencePiece with a vocabulary of \(128K\) tokens During training, we retrieving \(600B\) tokens from the training The evaluation contains \(1.75T\) tokens Test set leakage:
+Due to the huge retrieving database, the test set may have appeared in the training set.</description>
+    </item>
+    
+  </channel>
+</rss>
