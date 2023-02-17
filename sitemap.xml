@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yunpengtai.top/posts/generalized-linear-models/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
+  </url><url>
     <loc>https://yunpengtai.top/posts/hello-world/</loc>
     <lastmod>2023-02-12T13:08:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/exponential-family/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/linear-models/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/posts/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/</loc>
+    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/dataparallel/</loc>
     <lastmod>2022-11-20T21:37:00+08:00</lastmod>
@@ -16,15 +34,6 @@
   </url><url>
     <loc>https://yunpengtai.top/tags/multi-gpus/</loc>
     <lastmod>2022-11-20T21:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/posts/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/tags/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/posts/back-propagation/</loc>
     <lastmod>2022-09-07T11:10:00+08:00</lastmod>

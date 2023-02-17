@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exponential Family on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/exponential-family/</link>
+    <description>Recent content in Exponential Family on Tai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Feb 2023 10:52:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/exponential-family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generalized Linear Models</title>
+      <link>https://yunpengtai.top/posts/generalized-linear-models/</link>
+      <pubDate>Fri, 17 Feb 2023 10:52:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/generalized-linear-models/</guid>
+      <description>定义 若一个分布能够以下述方式进行表示，则称之为指数族（ Exponential Family）的一员 $$ p(y; \eta ) = b(y)\exp(\eta^{\mathbf{T}}T(y) - a(\eta )) $$ 其中$\eta$被称为分布的自然参数（nat</description>
+    </item>
+    
+  </channel>
+</rss>
