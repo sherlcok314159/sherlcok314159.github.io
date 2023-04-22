@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>probabilistic models on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/probabilistic-models/</link>
+    <description>Recent content in probabilistic models on Tai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Apr 2023 21:05:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/probabilistic-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Determinantal Point Process</title>
+      <link>https://yunpengtai.top/posts/determinantal-point-process/</link>
+      <pubDate>Fri, 21 Apr 2023 21:05:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/determinantal-point-process/</guid>
+      <description>在机器学习中，我们通常会面临一个问题：给定一个集合$\mathbf{S}$，从中寻找$k$个样本构成子集$\mathbf{V}$，尽量使得子</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yunpengtai.top/posts/determinantal-point-process/</loc>
+    <lastmod>2023-04-21T21:05:00+08:00</lastmod>
+  </url><url>
     <loc>https://yunpengtai.top/posts/generalized-linear-models/</loc>
     <lastmod>2023-02-17T10:52:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/posts/hello-world/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/posts/</loc>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/probabilistic-models/</loc>
+    <lastmod>2023-04-21T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/retrieval/</loc>
+    <lastmod>2023-04-21T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/</loc>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/</loc>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/exponential-family/</loc>
     <lastmod>2023-02-17T10:52:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/linear-models/</loc>
-    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/posts/</loc>
-    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/tags/</loc>
-    <lastmod>2023-02-17T10:52:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/</loc>
     <lastmod>2023-02-17T10:52:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/dataparallel/</loc>
@@ -65,9 +74,6 @@
     <loc>https://yunpengtai.top/tags/plm/</loc>
     <lastmod>2022-06-19T21:06:00+08:00</lastmod>
   </url><url>
-    <loc>https://yunpengtai.top/tags/retrieval/</loc>
-    <lastmod>2022-06-19T21:06:00+08:00</lastmod>
-  </url><url>
     <loc>https://yunpengtai.top/posts/retrieval-enhanced-transformer/</loc>
     <lastmod>2022-06-19T21:06:00+08:00</lastmod>
   </url><url>
@@ -75,13 +81,13 @@
     <lastmod>2022-06-19T21:06:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/1st-post/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/hello-world/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/%E6%96%B0%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2023-02-12T13:08:00+08:00</lastmod>
+    <lastmod>2023-04-21T21:08:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/about/</loc>
   </url><url>

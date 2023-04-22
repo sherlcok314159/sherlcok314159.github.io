@@ -5,7 +5,16 @@
     <link>https://yunpengtai.top/</link>
     <description>Recent content on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 17 Feb 2023 10:52:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 21:05:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Determinantal Point Process</title>
+      <link>https://yunpengtai.top/posts/determinantal-point-process/</link>
+      <pubDate>Fri, 21 Apr 2023 21:05:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/determinantal-point-process/</guid>
+      <description>在机器学习中，我们通常会面临一个问题：给定一个集合$\mathbf{S}$，从中寻找$k$个样本构成子集$\mathbf{V}$，尽量使得子</description>
+    </item>
+    
     <item>
       <title>Generalized Linear Models</title>
       <link>https://yunpengtai.top/posts/generalized-linear-models/</link>
@@ -84,8 +93,8 @@ Due to the huge retrieving database, the test set may have appeared in the train
       <guid>https://yunpengtai.top/about/</guid>
       <description>Hi! You can check my CV here.
 Here is Yunpeng Tai. I am a geek about mathematics, machine learning and NLP.
-I major in Computer Science in Suzhou University of Science and Technology. Currently I am focusing on the Open-Domained QA, Machine Reading Comprehension, Conversation and the features of the Large Pre-trained Language Models.
-For me, learning is a process of getting freedom. I am a perfectionist and hate the feeling of being limited, thus I will do something by myself for maximum freedom.</description>
+I major in Computer Science in Suzhou University of Science and Technology. Currently I am focusing on the In-Context Learning of LLMs. And I am familiar with the topics below:
+Open-Domained QA Noise Learning Pre-training of LLM Sentence Rephrasing Machine Reading Comprehension For me, learning is a process of getting freedom.</description>
     </item>
     
     
