@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>proxy problem on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/proxy-problem/</link>
+    <description>Recent content in proxy problem on Tai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 May 2023 14:40:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/proxy-problem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noise Contrastive Estimation</title>
+      <link>https://yunpengtai.top/posts/noise-contrastive-estimation/</link>
+      <pubDate>Mon, 29 May 2023 14:40:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/noise-contrastive-estimation/</guid>
+      <description>难以承受之重 文本生成是 NLP 任务中比较典型的一类，记参数为$\boldsymbol{\theta }$，给定的 context 为$\boldsymbol{c}$</description>
+    </item>
+    
+  </channel>
+</rss>
