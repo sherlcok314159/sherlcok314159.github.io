@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yunpengtai.top/posts/bias-variance-decomposition/</loc>
+    <lastmod>2023-06-21T11:05:00+08:00</lastmod>
+  </url><url>
     <loc>https://yunpengtai.top/posts/noise-contrastive-estimation/</loc>
     <lastmod>2023-05-29T14:40:00+08:00</lastmod>
   </url><url>
@@ -17,19 +20,22 @@
     <loc>https://yunpengtai.top/posts/hello-world/</loc>
     <lastmod>2023-04-21T21:08:00+08:00</lastmod>
   </url><url>
+    <loc>https://yunpengtai.top/tags/basics/</loc>
+    <lastmod>2023-06-21T11:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/posts/</loc>
+    <lastmod>2023-06-21T11:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/tags/</loc>
+    <lastmod>2023-06-21T11:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yunpengtai.top/</loc>
+    <lastmod>2023-06-21T11:05:00+08:00</lastmod>
+  </url><url>
     <loc>https://yunpengtai.top/tags/contrastive-learning/</loc>
     <lastmod>2023-05-29T14:40:00+08:00</lastmod>
   </url><url>
-    <loc>https://yunpengtai.top/posts/</loc>
-    <lastmod>2023-05-29T14:40:00+08:00</lastmod>
-  </url><url>
     <loc>https://yunpengtai.top/tags/proxy-problem/</loc>
-    <lastmod>2023-05-29T14:40:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/tags/</loc>
-    <lastmod>2023-05-29T14:40:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yunpengtai.top/</loc>
     <lastmod>2023-05-29T14:40:00+08:00</lastmod>
   </url><url>
     <loc>https://yunpengtai.top/tags/probabilistic-models/</loc>
