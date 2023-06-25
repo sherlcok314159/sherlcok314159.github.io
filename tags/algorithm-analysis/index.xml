@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algorithm Analysis on Tai&#39;s Blog</title>
+    <link>https://yunpengtai.top/tags/algorithm-analysis/</link>
+    <description>Recent content in Algorithm Analysis on Tai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Jun 2023 21:13:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/algorithm-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numerical Stability</title>
+      <link>https://yunpengtai.top/posts/numerical-stability/</link>
+      <pubDate>Sun, 25 Jun 2023 21:13:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/numerical-stability/</guid>
+      <description>Why 当计算涉及到实数域时，比如圆周率的$\pi$，因为小数部分是无穷的，计算机是无法准确表示，因而只会用近似的值进行替代，这种情况下，误差相对</description>
+    </item>
+    
+  </channel>
+</rss>
