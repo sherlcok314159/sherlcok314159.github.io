@@ -5,7 +5,16 @@
     <link>https://yunpengtai.top/posts/</link>
     <description>Recent content in Posts on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 21:13:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 21:52:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCE的朋友们</title>
+      <link>https://yunpengtai.top/posts/nce%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC/</link>
+      <pubDate>Sat, 08 Jul 2023 21:52:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/nce%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC/</guid>
+      <description>在Noise Contrastive Estimation中，我们详细介绍了 NCE 算法，其实还有很多跟它类似的算法，继续以文本生成为例，基于上下文$\boldsymbo</description>
+    </item>
+    
     <item>
       <title>Numerical Stability</title>
       <link>https://yunpengtai.top/posts/numerical-stability/</link>
