@@ -5,7 +5,16 @@
     <link>https://yunpengtai.top/tags/contrastive-learning/</link>
     <description>Recent content in contrastive learning on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 21:52:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/contrastive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 18:02:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/contrastive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>放大镜下的 InfoNCE</title>
+      <link>https://yunpengtai.top/posts/infonce/</link>
+      <pubDate>Fri, 14 Jul 2023 18:02:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/infonce/</guid>
+      <description>区分真实样本 前面的讲的NCE系列方法是为了去估计配分函数，接下来要介绍的 InfoNCE 虽然带个 NCE，但这个的目的不是要预估配分函数，他是直接采用自归一</description>
+    </item>
+    
     <item>
       <title>NCE的朋友们</title>
       <link>https://yunpengtai.top/posts/nce%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC/</link>
