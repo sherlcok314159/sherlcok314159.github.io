@@ -5,16 +5,7 @@
     <link>https://yunpengtai.top/tags/basics/</link>
     <description>Recent content in basics on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 17:26:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/basics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Efficient Tricks for LLMs</title>
-      <link>https://yunpengtai.top/posts/efficient-tricks-for-llm/</link>
-      <pubDate>Fri, 13 Oct 2023 17:26:00 +0800</pubDate>
-      
-      <guid>https://yunpengtai.top/posts/efficient-tricks-for-llm/</guid>
-      <description>如何高效训练或推理大模型一般在两点：如何装得下以及如何更快 这里讲一些主要的并行概念，不会深挖原理，只会介绍 key points，看它们分别为加速和</description>
-    </item>
-    
+    <lastBuildDate>Wed, 21 Jun 2023 11:05:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bias Variance Decomposition</title>
       <link>https://yunpengtai.top/posts/bias-variance-decomposition/</link>

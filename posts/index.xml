@@ -5,7 +5,16 @@
     <link>https://yunpengtai.top/posts/</link>
     <description>Recent content in Posts on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 17:26:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 13:16:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大模型的数学之路</title>
+      <link>https://yunpengtai.top/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E8%B7%AF/</link>
+      <pubDate>Wed, 25 Oct 2023 13:16:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E8%B7%AF/</guid>
+      <description>问题 LLM 通过大量的语料来建模下一个 token 的概率，这种训练方式促成 LLM 成为一个「文科生」，那么我们不禁对以下几个问题好奇： LLM 目前在数学问题上取得的进展</description>
+    </item>
+    
     <item>
       <title>Efficient Tricks for LLMs</title>
       <link>https://yunpengtai.top/posts/efficient-tricks-for-llm/</link>

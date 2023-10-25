@@ -5,13 +5,13 @@
     <link>https://yunpengtai.top/tags/</link>
     <description>Recent content in Tags on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 17:26:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 13:16:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>basics</title>
-      <link>https://yunpengtai.top/tags/basics/</link>
-      <pubDate>Fri, 13 Oct 2023 17:26:00 +0800</pubDate>
+      <title>LLM</title>
+      <link>https://yunpengtai.top/tags/llm/</link>
+      <pubDate>Wed, 25 Oct 2023 13:16:00 +0800</pubDate>
       
-      <guid>https://yunpengtai.top/tags/basics/</guid>
+      <guid>https://yunpengtai.top/tags/llm/</guid>
       <description></description>
     </item>
     
@@ -30,6 +30,15 @@
       <pubDate>Sun, 25 Jun 2023 21:13:00 +0800</pubDate>
       
       <guid>https://yunpengtai.top/tags/algorithm-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basics</title>
+      <link>https://yunpengtai.top/tags/basics/</link>
+      <pubDate>Wed, 21 Jun 2023 11:05:00 +0800</pubDate>
+      
+      <guid>https://yunpengtai.top/tags/basics/</guid>
       <description></description>
     </item>
     
