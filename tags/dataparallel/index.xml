@@ -5,6 +5,7 @@
     <link>https://yunpengtai.top/tags/dataparallel/</link>
     <description>Recent content in DataParallel on Tai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 20 Nov 2022 21:37:00 +0800</lastBuildDate><atom:link href="https://yunpengtai.top/tags/dataparallel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diving in distributed training in PyTorch</title>
